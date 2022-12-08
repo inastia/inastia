@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **building a QR code generator.**
 
-- 📄 Get to know my experiences on [LinkedIn](https://www.linkedin.com/in/anastasiabigun/)
+- 📄 Find out more about my work experience on [LinkedIn](https://www.linkedin.com/in/anastasiabigun/)
 
 - ⚡ Fun fact **one of the pilots from the opening scenes of Top Gun (1986) taught me how to drive.**
 
