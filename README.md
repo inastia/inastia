@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/inastia)
 
-- 💬 Ask me about **building a QR code generator.**
+- 💬 Ask me about **my Keeper app clone in React.**
 
 - 📄 Find out more about my work experience on [LinkedIn](https://www.linkedin.com/in/anastasiabigun/)
 
